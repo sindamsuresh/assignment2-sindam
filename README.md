@@ -21,3 +21,6 @@ you will come across Buckingham Palace.
 * Millennium Bridge
 * London Eye
 * Buckingham Palace
+
+[Please click here to jump to my about me file](AboutMe.md)
+
