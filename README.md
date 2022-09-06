@@ -15,3 +15,9 @@ you will come across Buckingham Palace.
 5. Then take a right, then left, then right.
 6. After 0.5 miles on this road you will reach your destination.
 
+* City Hall
+* Museum of london docklands
+* Tower of london
+* Millennium Bridge
+* London Eye
+* Buckingham Palace
