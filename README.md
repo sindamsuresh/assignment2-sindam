@@ -35,6 +35,13 @@ The below table shows 4 cities that would be worth visiting. The first column co
 | Warangal | Thousand Pillar Temple | 2 hours |
 | Delhi | Taj Mahal | 2 hours |
 
+***
+# Steve Jobs Quotes
+> The people who are crazy enough to think they can change the world are the ones who do. ~*Steve Jobs*
+
+> We're here to put a dent in the universe. Otherwise why else even be here? ~*Steve Jobs*
+
+
 
 
 
