@@ -23,4 +23,19 @@ you will come across Buckingham Palace.
 * Buckingham Palace
 
 [Please click here to jump to my about me file](AboutMe.md)
+***
+# India's top 4 cities to visit
+
+The below table shows 4 cities that would be worth visiting. The first column contains the name of the city, the second column contains a place to visit in the city, and the third column contains the amount of time to spend at the place.
+
+| Name of the City | Important Location to Visit |Time to spend at the place |
+| :-: | :-: | :-: |
+| Hyderabad | Charminar | 1 hour |
+| Karimnagar | Manair Dam | 1 hour |
+| Warangal | Thousand Pillar Temple | 2 hours |
+| Delhi | Taj Mahal | 2 hours |
+
+
+
+
 
