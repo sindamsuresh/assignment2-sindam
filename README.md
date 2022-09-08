@@ -37,9 +37,34 @@ The below table shows 4 cities that would be worth visiting. The first column co
 
 ***
 # Steve Jobs Quotes
+
 > The people who are crazy enough to think they can change the world are the ones who do. ~*Steve Jobs*
 
 > We're here to put a dent in the universe. Otherwise why else even be here? ~*Steve Jobs*
+
+***
+# SVG Code Fencing
+> What is it in SVG file?
+
+<https://stackoverflow.com/questions/50537363/what-is-it-in-svg-file>
+
+
+```
+<svg viewBox="0 0 100 100">
+  <text>
+    <tspan class="line-1" textLength="100" x="0" y="1em" lengthAdjust="spacingAndGlyphs" lengthAdjust="spacing">
+      Think
+    </tspan>
+    <tspan class="line-2" textLength="100" x="0" dy="0.9em" lengthAdjust="spacingAndGlyphs">
+      Different
+    </tspan>
+    <tspan class="line-3" textLength="100" x="0" dy="0.9em" lengthAdjust="spacingAndGlyphs">
+      Steve Jobs
+    </tspan>
+  </text>
+</svg>
+```
+<https://css-tricks.com/snippets/svg/text-lock-up>
 
 
 
